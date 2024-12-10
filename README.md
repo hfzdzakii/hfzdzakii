@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🔭 I’m having an education on **Universitas Dian Nuswantoro (UDINUS)** and **niversiti Teknikal Malaysia Melaka (UTeM)**.
+- 🔭 I’m having an education on **Universitas Dian Nuswantoro (UDINUS)** and **Universiti Teknikal Malaysia Melaka (UTeM)**.
 - 🌱 I’m currently conducting **research on preprocessing IoT datasets, leveraging a robust, proposed feature selection technique to identify the optimal subset while minimizing time consumption and reducing trial-and-error experimentation**.
 - 👨‍💻 All of my projects are available at [My Github Landing Page](https://hfzdzakii.github.io/).
 - 💬 Ask me about **Machine Learning, Deep Learning, and Data Science**.
